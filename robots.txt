@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dayanandschoolhodal.github.io/dvm/sitemap.xml
